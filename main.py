@@ -1,4 +1,6 @@
 from sokoban_state import SokobanState  # Import the SokobanState class
+import os
+
 
 
 def main():
